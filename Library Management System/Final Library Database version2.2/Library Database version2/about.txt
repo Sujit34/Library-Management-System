@@ -1,0 +1,22 @@
+﻿
+
+Project Name:    Library Database Management System
+Subject Name:    Database Management Systems(Sessional)
+Subject Code:    CSE-352
+Submission Date: 04-10-2015
+
+
+
+A combined effort of,
+
+Name:            Sujit Kumar Chanda (1204034) & Nur-A-Alam Shiddiki (1204039)
+                 
+                 
+
+Supervisor:      Rahma Bintey Mufiz Mukta
+
+Instititute:     Chittagong University of Engineering & Technology
+Depertment:      Computer Science & Engineering
+
+
+**The features of this project are described at "Help".

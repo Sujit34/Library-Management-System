@@ -1,0 +1,65 @@
+﻿                                             Library Database Management System
+
+
+After Login in this system Admin get access in Main_Menu form. In Main_Menu form there are 11 options:
+   
+     
+	 
+	 1. Admin: Under Admin option there are 4 options--
+	    a. Change admin password : Clicking this option Admin get access in the form "Changepassword" then change password and click Change password button.
+
+		b. Add another admin : Clicking this option Admin get access in the form "Add Admin" then load data and click Add button.
+
+		c. Update book databsae : Clicking this option Admin get access in the form "Book" then edit data and click update button.
+
+		d. Update student database: Clicking this option Admin get access in the form "Student" then edit data and click update button.
+
+
+    
+	 2. Registration: Under registration option there are another 2 options--
+	    a. New student entry : Clicking this option Admin get access in the form "Student" then load data and click insert button.
+
+		b. New book entry : Clicking this option Admin get access in the form "Book" then load data and click insert button.
+
+
+
+	 3. Book Issue:  Clicking this option Admin get access in the form "Book_Issue" and can issue book.
+
+
+
+	 4. Database:Under Database option there are another 2 options.
+	    a.Student: Show student database
+
+		b.Book: Show book database
+
+
+
+     5. Send Email: Send Email if a student fails to return or renew book within a month.
+
+
+
+	 6. Logout: By clicking this option Admin can logout his id.
+
+
+
+	 7. Search book by student id: Clicking this option Admin get access in the form "Search_book" and can search book by student id.
+
+
+
+	 8. Search student: Clicking this option Admin get access in the form "Student" then he can search student by student id,student name,department name.
+
+
+
+	 9. Search book: Clicking this option Admin get access in the form "Book" then he can searcch book by book id,book name,author,publisher.
+
+
+
+	 10. Help: Clicking this option one can get the manual how to operate it.
+
+
+
+	 11. About: Clicking this option one can know about the developer.
+
+
+	 NB: 1.	This system can send email only in gmail address. So admin must be careful inserting email address.
+	     2.	It is preferable to use mouse than keyboard.
